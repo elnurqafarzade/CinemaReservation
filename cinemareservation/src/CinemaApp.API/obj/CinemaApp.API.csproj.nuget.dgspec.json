@@ -1,0 +1,234 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\FA507XV\\Desktop\\saddasd\\cinemareservation\\src\\CinemaApp.API\\CinemaApp.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\FA507XV\\Desktop\\saddasd\\cinemareservation\\src\\CinemaApp.API\\CinemaApp.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FA507XV\\Desktop\\saddasd\\cinemareservation\\src\\CinemaApp.API\\CinemaApp.API.csproj",
+        "projectName": "CinemaApp.API",
+        "projectPath": "C:\\Users\\FA507XV\\Desktop\\saddasd\\cinemareservation\\src\\CinemaApp.API\\CinemaApp.API.csproj",
+        "packagesPath": "C:\\Users\\FA507XV\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FA507XV\\Desktop\\saddasd\\cinemareservation\\src\\CinemaApp.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\FA507XV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\FA507XV\\Desktop\\saddasd\\cinemareservation\\src\\CinemaApp.DAL\\CinemaApp.Data.csproj": {
+                "projectPath": "C:\\Users\\FA507XV\\Desktop\\saddasd\\cinemareservation\\src\\CinemaApp.DAL\\CinemaApp.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\FA507XV\\Desktop\\saddasd\\cinemareservation\\src\\CinemaApp.Core\\CinemaApp.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FA507XV\\Desktop\\saddasd\\cinemareservation\\src\\CinemaApp.Core\\CinemaApp.Core.csproj",
+        "projectName": "CinemaApp.Core",
+        "projectPath": "C:\\Users\\FA507XV\\Desktop\\saddasd\\cinemareservation\\src\\CinemaApp.Core\\CinemaApp.Core.csproj",
+        "packagesPath": "C:\\Users\\FA507XV\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FA507XV\\Desktop\\saddasd\\cinemareservation\\src\\CinemaApp.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\FA507XV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNet.Identity.EntityFramework": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.PowerBI.Api": {
+              "target": "Package",
+              "version": "[4.20.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\FA507XV\\Desktop\\saddasd\\cinemareservation\\src\\CinemaApp.DAL\\CinemaApp.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FA507XV\\Desktop\\saddasd\\cinemareservation\\src\\CinemaApp.DAL\\CinemaApp.Data.csproj",
+        "projectName": "CinemaApp.Data",
+        "projectPath": "C:\\Users\\FA507XV\\Desktop\\saddasd\\cinemareservation\\src\\CinemaApp.DAL\\CinemaApp.Data.csproj",
+        "packagesPath": "C:\\Users\\FA507XV\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FA507XV\\Desktop\\saddasd\\cinemareservation\\src\\CinemaApp.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\FA507XV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\FA507XV\\Desktop\\saddasd\\cinemareservation\\src\\CinemaApp.Core\\CinemaApp.Core.csproj": {
+                "projectPath": "C:\\Users\\FA507XV\\Desktop\\saddasd\\cinemareservation\\src\\CinemaApp.Core\\CinemaApp.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
